@@ -43,7 +43,7 @@
     "object.assign": "^4.1.2",
     "object.values": "^1.1.2",
     "prop-types": "^15.7.2",
-    "react-is": "^16.13.1",
+    "react-is": "^17.0.0",
     "react-reconciler": "^0.7.0",
     "react-test-renderer": "~16.3.0-0"
   },
