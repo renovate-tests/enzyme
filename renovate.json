@@ -1,9 +1,3 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "github>ljharb/.github:renovate-config"
-  ],
-  "vulnerabilityAlerts": {
-    "dependencyDashboardApproval": true
-  }
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json"
 }
