@@ -51,7 +51,7 @@
     "prop-types": "^15.7.2",
     "react-is": "^16.13.1",
     "safe-publish-latest": "^1.1.4",
-    "semver": "^5.7.0",
+    "semver": "^7.0.0",
     "sinon": "^5.1.1",
     "sinon-sandbox": "^2.0.6"
   },
