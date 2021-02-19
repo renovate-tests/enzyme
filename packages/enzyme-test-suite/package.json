@@ -42,7 +42,7 @@
     "enzyme-shallow-equal": "^1.0.4",
     "has-symbols": "^1.0.1",
     "html-element-map": "^1.2.0",
-    "jsdom": "^6.5.1",
+    "jsdom": "^16.0.0",
     "lodash.isequal": "^4.5.0",
     "mocha": "^3.5.3",
     "mocha-wrap": "^2.1.2",
