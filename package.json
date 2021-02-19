@@ -97,7 +97,7 @@
     "prop-types": "^15.7.2",
     "rimraf": "^2.7.1",
     "safe-publish-latest": "^1.1.4",
-    "semver": "^6.3.0",
+    "semver": "^7.0.0",
     "webpack": "^2.7.0"
   },
   "dependencies": {},

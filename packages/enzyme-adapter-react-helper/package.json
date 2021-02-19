@@ -69,6 +69,6 @@
     "object.assign": "^4.1.2",
     "object.getownpropertydescriptors": "^2.1.1",
     "rimraf": "^2.7.1",
-    "semver": "^5.7.1"
+    "semver": "^7.0.0"
   }
 }

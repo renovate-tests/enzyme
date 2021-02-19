@@ -44,7 +44,7 @@
     "object.assign": "^4.1.2",
     "object.fromentries": "^2.0.3",
     "prop-types": "^15.7.2",
-    "semver": "^5.7.1"
+    "semver": "^7.0.0"
   },
   "peerDependencies": {
     "react": "0.13.x || 0.14.x || ^15.0.0-0 || ^16.0.0-0"
