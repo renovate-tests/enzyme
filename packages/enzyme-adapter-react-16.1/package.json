@@ -44,7 +44,7 @@
     "prop-types": "^15.7.2",
     "react-is": "^17.0.1",
     "react-reconciler": "^0.7.0",
-    "react-test-renderer": "~16.0.0-0 || ~16.1"
+    "react-test-renderer": "~17.0.0"
   },
   "peerDependencies": {
     "enzyme": "^3.0.0",
