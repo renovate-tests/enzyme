@@ -80,7 +80,7 @@
     "gitbook-plugin-codeblock-disable-glossary": "0.0.1",
     "gitbook-plugin-collapsible-menu": "^1.0.3",
     "gitbook-plugin-edit-link": "^2.0.2",
-    "gitbook-plugin-github": "^2.0.0",
+    "gitbook-plugin-github": "^3.0.0",
     "glob-gitignore": "^1.0.14",
     "in-publish": "^2.0.1",
     "json-loader": "^0.5.7",
